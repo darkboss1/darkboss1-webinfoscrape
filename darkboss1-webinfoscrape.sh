@@ -10,14 +10,19 @@ White="\e[1;97m"
 clear
 banner () {
 echo -e "
-${Red} __      __  ${Yellow}    ___.     _________                                  
-${Red}/  \    /  \ ${Yellow}____\_ |__  /   _____/ ________________  ______   ____  
-${Red}\   \/\/   /${Yellow}/ __ \| __ \ \_____  \_/ ___\_  __ \__  \ \____ \_/ __ \ 
-${Red} \        /${Yellow}\  ___/| \_\ \/        \  \___|  | \// __ \|  |_> >  ___/ 
-${Red}  \__/\  /${Yellow}  \___  >___  /_______  /\___  >__|  (____  /   __/ \___  >
-${Red}       \/${Yellow}       \/    \/        \/     \/           \/|__|        \/                                                                     "
-printf "\n\e[1;77m     A web scraper to get emails and phone numbers from websites      \e[0m\n\n"
-echo -e "\e[0;96m                Developed by: ${Red}Sandesh (3xploitGuy)\n\n\n"                      
+${Red}  ________      _____ __________ ____  __.__________ ________    _________ _____________ 
+\______ \    /  _  \\______   \    |/ _|\______   \\_____  \  /   _____//   _____/_   |
+ |    |  \  /  /_\  \|       _/      <   |    |  _/ /   |   \ \_____  \ \_____  \ |   |
+ |    `   \/    |    \    |   \    |  \  |    |   \/    |    \/        \/        \|   |
+/_______  /\____|__  /____|_  /____|__ \ |______  /\_______  /_______  /_______  /|___|
+        \/         \/       \/        \/        \/         \/        \/        \/       ${Yellow}                                 
+${Red} ${Yellow}
+${Red}${Yellow}
+${Red} ${Yellow}
+${Red}  ${Yellow}  
+${Red}  ${Yellow}                                                                            "
+printf "\n\e[1;77m     A darkboss1-webinfoscrape to get emails and phone numbers from websites      \e[0m\n\n"
+echo -e "\e[0;96m                Developed by: ${Red}darkboss1 (Ak47)\n\n\n"                      
 #echo -e "\e[0;96m                     Version: ${Red}1.0 Stable\n\n\n"                  
 }
 scanner () {
