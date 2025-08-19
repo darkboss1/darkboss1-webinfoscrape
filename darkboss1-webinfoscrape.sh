@@ -16,7 +16,7 @@ ${Red}${Yellow}
 ${Red} ${Yellow}
 ${Red}  ${Yellow}  
 ${Red}  ${Yellow}                                                                            "
-printf "\n\e[1;77m     A darkboss1-webinfoscrape to get emails and phone numbers from websites      \e[0m\n\n"
+printf "\n\e[1;77m     A darkboss1-websiteinfoscrape to get emails and phone numbers from websites      \e[0m\n\n"
 echo -e "\e[0;96m                Developed by: ${Red}darkboss1 (Ak47)\n\n\n"                      
 #echo -e "\e[0;96m                     Version: ${Red}1.0 Stable\n\n\n"                  
 }
