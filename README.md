@@ -14,13 +14,13 @@ Web Scraping also termed Web Data Extraction or Web Harvesting it is a technique
 ### Installing
 
 ```
-~ ❯❯❯ git clone https://github.com/darkboss1/darkboss1-webinfoscrape.git
+~ ❯❯❯ git clone https://github.com/darkboss1/darkboss1-websiteinfoscrape.git
 
-~ ❯❯❯ cd darkboss1-webinfoscrape
+~ ❯❯❯ cd darkboss1-websiteinfoscrape
 
-~/darkboss1-webinfoscrape ❯❯❯ chmod +x darkboss1-webinfoscrape.sh
+~❯❯❯ chmod +x darkboss1-websiteinfoscrape.sh
 
-~/darkboss1-webinfoscrape ❯❯❯ ./darkboss1-webinfoscrape.sh
+~ ❯❯❯ bash darkboss1-websiteinfoscrape.sh
 ```
 
 ## Contact
