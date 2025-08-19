@@ -27,11 +27,11 @@ Web Scraping also termed Web Data Extraction or Web Harvesting it is a technique
 
 [Gmail](mailto:chowdhuryethicalhacker@gmail.com) </br>
 [Website](https://serialkey.top) </br>
-[Telegram](https://www.youtube.com/@darkboss1850)
+[Telegram](https://t.me/darkvaiadmin)
 
 ## Disclaimer
 
-darkboss1-webinfoscrape is created to help in data scraping from the Internet and it's not responsible for any misuse or illegal purposes.
+darkboss1-websiteinfoscrape is created to help in data scraping from the Internet and it's not responsible for any misuse or illegal purposes.
 
 ## License
 
